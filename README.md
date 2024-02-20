@@ -1,5 +1,5 @@
  # Advanced-9Core - An audio app made by MinMinhMin
- # Most compatible with window 11 at resolution of 1920x1080 or 1600x900 
+ ## Most compatible with window 11 at resolution of 1920x1080 or 1600x900 
 ![icon](https://github.com/MinMinhMin/Advanced-9Core/assets/160199180/59e6afa6-6954-4c4c-86e2-f9e309e432d5)
 ![Screenshot (74)](https://github.com/MinMinhMin/Advanced-9Core/assets/160199180/112e9cb2-09ea-4d73-9098-db65ee4b049b)
 ![Screenshot (75)](https://github.com/MinMinhMin/Advanced-9Core/assets/160199180/c3c3270b-994e-45fb-8cf9-717fc5a75d40)
