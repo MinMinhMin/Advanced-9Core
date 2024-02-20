@@ -9,3 +9,5 @@
 # Download
 ## Download .zip file 
 ### Before launch the .exe file make sure you install .bat file ( It's necessary to run the app )
+
+![Screenshot (79)](https://github.com/MinMinhMin/Advanced-9Core/assets/160199180/78cd5552-7999-4317-ba2a-b038175fd55f)
