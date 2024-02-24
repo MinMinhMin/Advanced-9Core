@@ -15,5 +15,4 @@
 
 ![Screenshot (79)](https://github.com/MinMinhMin/Advanced-9Core/assets/160199180/78cd5552-7999-4317-ba2a-b038175fd55f)
 
-### P/s: You should extra the .zip file first !
 ### Enjoy!
