@@ -7,7 +7,10 @@
 ![Screenshot (76)](https://github.com/MinMinhMin/Advanced-9Core/assets/160199180/fd8f291d-dbc0-48e4-9c71-007d50bd79cb)
 
 # Download
-## Download .zip file 
+## Extract all A9C (App). rar (Extract Here)
+
+![Screenshot (81)](https://github.com/MinMinhMin/Advanced-9Core/assets/160199180/9986fb21-df9a-4db4-b714-8bcb8d7ddffb)
+
 ### Before launch the .exe file make sure you install .bat file ( It's necessary to run the app )
 
 ![Screenshot (79)](https://github.com/MinMinhMin/Advanced-9Core/assets/160199180/78cd5552-7999-4317-ba2a-b038175fd55f)
